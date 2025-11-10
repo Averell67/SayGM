@@ -1,6 +1,6 @@
 # SayGM
 Contributions are welcome!  
-If you'd like to improve the template, fix a bug, or add a new example, follow these steps:
+If you'd like to improve the template, fix a bug, or add a new example, follow these steps :
 
 1. Fork this repository  
 2. Create a new branch (`git checkout -b feature/my-improvement`)  
@@ -14,7 +14,7 @@ We review all PRs as fast as possible!
 
 ## 💬 Support
 
-If you encounter any issues or have questions about building your Farcaster MiniApp, feel free to:
+If you encounter any issues or have questions about building your Farcaster MiniApp, feel free to :
 
 - Open an issue on this repository  
 - Reach out on Farcaster  
